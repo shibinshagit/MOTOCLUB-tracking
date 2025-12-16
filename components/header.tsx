@@ -15,7 +15,7 @@ export function Header() {
                 height={48}
                 className="rounded-xl w-10 h-10 sm:w-12 sm:h-12 shadow-sm"
               />
-              <h1 className="font-bold text-xl sm:text-2xl text-slate-900 tracking-tight">motoclub</h1>
+              <h1 className="font-bold text-xl sm:text-2xl text-slate-900 tracking-tight"></h1>
             </div>
             <Link
               href="https://www.opencoders.icu/"

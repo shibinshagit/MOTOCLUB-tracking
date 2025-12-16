@@ -38,7 +38,7 @@ export function TrackingResults({ data }: { data: TrackingData }) {
 
   return (
     <div className="space-y-4 sm:space-y-6">
-      <div className="bg-slate-900/50 backdrop-blur-sm border border-white/10 rounded-xl p-4 sm:p-6 lg:p-8">
+      <div className="bg-black backdrop-blur-sm border border-white/10 rounded-xl p-4 sm:p-6 lg:p-8">
         <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3 sm:gap-4 mb-4 sm:mb-6">
           <div>
             <h3 className="font-semibold text-lg sm:text-xl lg:text-2xl text-white mb-1 sm:mb-2">Shipment Details</h3>
